@@ -1,5 +1,26 @@
+# Virtual environments
 venv/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
-git rm --cached --ignore-unmatch apikey.txt
-git rm --cached --ignore-unmatch api.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Power BI autosave/temp
+*.tmp
+
+# Secrets
+apikey.txt
+api.txt
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
