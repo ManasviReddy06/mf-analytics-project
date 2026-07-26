@@ -321,7 +321,7 @@ Dashboard
 
 ## Author
 
-**Manu Reddy**
+**Manasvi Reddy**
 
 Bachelor of Technology (Computer Science and Engineering)
 
